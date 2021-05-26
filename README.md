@@ -2,6 +2,8 @@
 Exploratory analysis of a large data set of Dungeons and Dragons characters.
 This exercise was done as a wrap up project for the General Assembly python bootcamp in February 2021.
 
+**View this project on Google Collab:** [DnD Project Link](https://colab.research.google.com/drive/1iav-ezxNy6zb8FPb4O1jnqc_h_Wtjvpb)
+
 ## About the Data Source
  Github user [oganm](https://github.com/oganm), as part of the the project [dnddata](https://github.com/oganm/dnddata), shared a large data set of Dungeons and dragons characters. They run a website that prints character sheets and they've published these as a result of that process.
  
